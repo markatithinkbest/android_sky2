@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/ppb01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="出勤狀況"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/ppb02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="出差紀錄"
+            android:textSize="25sp" />
+
+        <Button
+            android:id="@+id/ppb03"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="班表資訊"
+            android:textSize="25sp" />
+
+    </LinearLayout>
+
+    <View
+        android:id="@+id/View01"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="#000000" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="今日資訊"
+        android:textSize="20sp" />
+
+    <View
+        android:id="@+id/view1"
+        android:layout_width="match_parent"
+        android:layout_height="3dp"
+        android:background="#000000" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+           android:textSize="20sp" 
+        android:text="本月資訊:" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+           android:textSize="20sp" 
+        android:text="遲到:" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+           android:textSize="20sp" 
+        android:text="早退:" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+           android:textSize="20sp" 
+        android:text="曠職:" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

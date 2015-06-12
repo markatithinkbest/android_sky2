@@ -1,0 +1,28 @@
+// please leave this here, so this library builds on its own
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+
+    dependencies {
+//        classpath 'com.android.tools.build:gradle:1.0.0'
+    }
+}
+apply plugin: 'com.android.library'
+android {
+    compileSdkVersion 22
+    buildToolsVersion '23.0.0 rc2'
+
+    defaultConfig {
+        // Turns out a lint check crashes when we don't specify minSdkVersion
+        minSdkVersion 15
+    }
+
+    // Do not abort build if lint finds errors
+    lintOptions {
+        abortOnError false
+    }
+}
+
+dependencies {
+}

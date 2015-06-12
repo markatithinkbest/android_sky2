@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="title_activity_login">登入</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_name">用户名</string>
+    <string name="prompt_password">密碼</string>
+    <string name="action_sign_in_register"><b>登 入</b></string>
+    <string name="action_sign_in_short">進入</string>
+    <string name="action_forgot_password">Recover lost password</string>
+    <string name="login_progress_signing_in">正在登入&#8230;</string>
+    <string name="error_invalid_email">帳號名稱不合法</string>
+    <string name="error_invalid_password">愛，密碼太短搂</string>
+    <string name="error_incorrect_user">請檢察用戶名稱密碼是否正確</string>
+    <string name="error_name_required">請輸入用戶名稱</string>
+    <string name="error_pwd_required">請輸入密碼</string>
+    <string name="invalid_account">燈入失敗,請重試</string>
+    <string name="invalid_network">請檢察網路是否正常！</string>
+     <string name="login_timeout">登入超時,請重試</string>
+     <string name="login_failed">登入失敗請重試</string>
+    <string name="action_kickout">用戶在其他客戶端已登入</string>
+</resources>

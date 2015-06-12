@@ -1,0 +1,2 @@
+include ':mgimlibs', ':daogenerator', ':OfficeAssistant', ':ResideMenu', ':k9mail', ':plugins:HoloColorPicker', ':plugins:Android-PullToRefresh:library', ':plugins:openpgp-api-library', ':k9mail-library'
+include ':app'

@@ -1,0 +1,64 @@
+<resources>
+
+    <string name="downloading">正在下載更新</string>
+    <string name="wait_moment">請稍後</string>
+    <string name="connect_login_server_failed">無法與伺服器連線, 請檢查網路或稍後</string>
+    <string name="login_error_fetch_login_server_addrs_failed">無法與伺服器連線, 請檢查網路或稍後</string>
+    <string name="req_msg_server_addrs_failed">無法與伺服器連線, 請檢查網路或稍後</string>
+    <string name="connect_msg_server_failed">無法與伺服器連線, 請檢查網路或稍後</string>
+    <string name="login_msg_server_failed">無法與伺服器連線, 請檢查網路或稍後</string>
+    <string name="login_error_general_failed">帳號或密碼錯誤，請重新輸入</string>
+    <string name="login_error_unexpected">登入失敗, 請檢查網路或稍後</string>
+    <string name="no_network">網路不可用,點擊重新連接...</string>
+    <string name="no_network_toast">網路不可用</string>
+    <string name="no_chat">暫無對話</string>
+    <string name="no_search_result">沒有搜尋結果</string>
+    <string name="disconnect_kickout">帳號在其他地方登入,點擊重登</string>
+    <string name="pc_status_notify">PC端已登入,點擊登出</string>
+    <string name="kick_pc_failed">登出PC端失敗</string>
+    <string name="no_network_notification">網路不可用, 請檢查網路或稍後</string>
+
+    <string name="req_msg_failed">操作失敗，稍後重試</string>
+    <string name="msg_cnt_unit">條</string>
+    <string name="setting_notificaton_name">消息通知設置</string>
+    <string name="no_disturb">接收但屏蔽通知</string>
+    <string name="top_message">置頂聊天</string>
+    <string name="cancel_top_message">取消置頂</string>
+    <string name="forbid_message">屏蔽對話</string>
+    <string name="cancel_forbid_message">取消屏蔽</string>
+    <string name="forbid_group_message">免打擾</string>
+    <string name="cancel_forbid_group_message">取消免打擾</string>
+    <string name="new_msg_notify_got_sound">聲音</string>
+    <string name="new_msg_notify_got_vibration">震動</string>
+    <string name="image_downloading_setting_name">圖片下載設置</string>
+    <string name="save_traffic">省流量模式</string>
+    <string name="exit_teamtalk">退出程式</string>
+    <string name="exit_teamtalk_tip">你確定退出程式?</string>
+    <string name="clear_cache_tip">你確定清理圖片快取?</string>
+    <string name="confirm_dial">撥打電話:%s</string>
+    <string name="confirm_send_email">發送郵件:%s</string>
+    <string name="setting_page_name">設定</string>
+    <string name="check_profile">查看資料</string>
+    <string name="delete_session">刪除對話</string>
+    <string name="start_session">開始聊天</string>
+    <string name="call_phone">撥打電話</string>
+    <string name="empty_phone_no">號碼為空</string>
+    <string name="fixed_group_name">群</string>
+    <string name="contact">聯絡人</string>
+    <string name="fixed_group_or_temp_group">群或討論組</string>
+    <string name="department">部門</string>
+    <string name="create_temp_group_dialog_title">討論組名稱</string>
+    <string name="tt_ok">確定</string>
+    <string name="tt_cancel">取消</string>
+    <string name="empty_prompt">名字不能為空</string>
+    <string name="setting_version">版本: 20150320</string>
+    <string name="sex_female_name">女</string>
+    <string name="sex_male_name">男</string>
+    <string name="error_code_name">錯誤代碼</string>
+
+    <string name="error_group_info">錯誤選取</string>
+    <string name="select_group_member_empty">請先選擇群組成員</string>
+    <string name="create_temp_group_failed">請求創建失敗,請檢察網路</string>
+    <string name="change_temp_group_failed">修改群組失敗</string>
+
+</resources>

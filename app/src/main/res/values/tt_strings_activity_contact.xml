@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="desc_avatar">照片</string>
+    <string name="contact_name">最近聯絡人</string>
+    <string name="menu_undo">返回</string>
+    <string name="menu_search">搜尋</string>
+    <string name="menu_users">帳號</string>
+    <string name="chat_title">Action Talk</string>
+    <string name="loading_contacts">載入中...</string>
+    <string name="request_unread_msg_faild">請求未讀消息失敗</string>
+    <string name="load_contacts_failed">資料讀取失敗,請重試</string>
+    <string name="get_unread_msg_count_failed">獲取未讀消息失敗</string>
+    <string name="get_user_info_failed">獲取用戶消息失敗</string>
+    <string name="get_recent_contact_failed">当前联系人加载失败</string>
+    <string name="network_was_disconnected">連接中斷</string>
+    <string name="no_recent_contact">最近沒有聯繫人喔</string>
+
+</resources>

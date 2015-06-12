@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eecbdd"
+    android:orientation="vertical"
+     >
+        
+	<ListView
+	    android:id="@+id/item_list"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	   
+	    android:dividerHeight="1sp" />
+	
+	<!-- 加入「android:clickable="true"」的設定，TextView元件才可以點擊 -->
+	<!-- 加入「android:onClick="方法名稱"」的設定 -->
+	<!-- 加入「android:id="@+id/名稱"」的設定 -->
+
+
+	
+	
+</LinearLayout>

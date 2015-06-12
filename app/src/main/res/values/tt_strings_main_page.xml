@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="main_chat">聊天</string>
+    <string name="main_contact">通訊錄</string>
+    <string name="main_innernet">首頁</string>
+    <string name="main_me_tab">我的</string>
+    <string name="page_me">設計師</string>
+    <string name="page_setting">設定</string>
+    <string name="page_user_detail">詳細資料</string>
+
+</resources>
